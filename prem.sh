@@ -42,7 +42,7 @@ sleep 1
 toilet -f big -F gay "T00Ls" | lolcat
 toilet -f big -F gay "red wings" 
 echo ""   
-figlet "\033[33;"RED-WINGS"   
+figlet "RED-WINGS"   
 echo "\033[32;1mAuthor : red-wings " 
 echo "\033[35;1mTeam : unknown "
 echo "\033[33;1mKontak Me : 08973017217"
