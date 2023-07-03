@@ -20,10 +20,9 @@ sleep 2
 
 clear
 
-sh tools.sh
+sh InstallerV6.sh
 
 fi
-
 
 #!/system/xbin/bash
 #MauNgapainGblk?
